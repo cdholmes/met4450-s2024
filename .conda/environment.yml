@@ -1,4 +1,4 @@
-name: general
+name: main
 channels:
   - conda-forge
 dependencies:
